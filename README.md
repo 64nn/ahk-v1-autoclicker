@@ -1,5 +1,5 @@
 # ahk-v1-autoclicker
-an autoclicker made in autohotkey, available as an ahk and exe file
+a simple and lightweight autoclicker made in autohotkey, available as an ahk and exe file
 
 preview of the autoclicker on windows 7 and windows 10
 
