@@ -1,8 +1,7 @@
 # ahk-v1-autoclicker
-an autoclicker made in autohotkey
+an autoclicker made in autohotkey, available as an ahk and exe file
 
-preview of the autoclicker on windows 10 and windows 7
+preview of the autoclicker on windows 7 and windows 10
 
-<img width="434" height="439" alt="7" src="https://github.com/user-attachments/assets/02a5201f-fd1a-48ba-bfd2-77a32eefcd18" />
-<img width="415" height="424" alt="10" src="https://github.com/user-attachments/assets/a3ade40f-447f-4c51-be81-ecdd5b762b54" />
-
+<img width="436" height="439" alt="7" src="https://github.com/user-attachments/assets/7172624c-252c-4648-a2ba-ea9c7b45baaa" />
+<img width="420" height="431" alt="10" src="https://github.com/user-attachments/assets/39ff9d64-2b12-45e6-8f3d-d1f17e17df24" />
